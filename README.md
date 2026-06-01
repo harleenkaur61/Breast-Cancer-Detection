@@ -1,35 +1,30 @@
 # Breast-Cancer-Detection
-Breast Cancer Detection using Machine Learning
+# Breast Cancer Detection using Machine Learning
 
-Overview
+## Project Overview
 
-This project uses Machine Learning techniques to predict whether a breast tumor is benign or malignant based on diagnostic features.
+This project uses machine learning techniques to classify breast tumors as benign or malignant using diagnostic medical data.
 
-Technologies Used
+## Technologies Used
 
-* Python
-* Scikit-Learn
-* Pandas
-* NumPy
-* Matplotlib
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
 
-Objectives
+## Results
 
-* Clean and preprocess medical data
-* Train machine learning models
-* Evaluate prediction accuracy
-* Identify important features contributing to classification
+The model was trained and evaluated using a breast cancer dataset and achieved strong classification performance.
 
-Skills Demonstrated
+## Kaggle Notebook
 
-* Data Cleaning
-* Feature Engineering
-* Machine Learning
-* Data Visualization
-* Model Evaluation
+https://www.kaggle.com/code/harleenkaur412/breast-cancer
 
-Future Improvements
+## Skills Demonstrated
 
-* Hyperparameter tuning
-* Additional model comparisons
-* Interactive dashboard development
+- Data Cleaning
+- Data Analysis
+- Machine Learning
+- Feature Engineering
+- Model Evaluation
