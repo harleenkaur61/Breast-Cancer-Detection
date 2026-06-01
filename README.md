@@ -32,3 +32,10 @@ Skills Demonstrated
 * Computer Vision
 * Model Evaluation
 * Python Programming
+## Results
+
+![Results](results.jpg)
+
+## Sample Predictions
+
+![Predictions](predictions.jpg)
