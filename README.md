@@ -1,30 +1,34 @@
-# Breast-Cancer-Detection
-# Breast Cancer Detection using Machine Learning
+Breast Cancer Detection Using Deep Learning
 
-## Project Overview
+Overview
 
-This project uses machine learning techniques to classify breast tumors as benign or malignant using diagnostic medical data.
+This project uses a deep learning model built with TensorFlow and Keras to classify mammogram images as benign or malignant.
 
-## Technologies Used
+Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
+* Python
+* TensorFlow
+* Keras
+* NumPy
+* Matplotlib
 
-## Results
+Project Features
 
-The model was trained and evaluated using a breast cancer dataset and achieved strong classification performance.
+* Medical image classification
+* Model training and evaluation
+* Accuracy and loss visualization
+* Prediction analysis on test images
 
-## Kaggle Notebook
+Results
 
-https://www.kaggle.com/code/harleenkaur412/breast-cancer
+* Test Accuracy: 61.31%
+* Test AUC: 58.93%
+* Test Recall: 28.12%
 
-## Skills Demonstrated
+Skills Demonstrated
 
-- Data Cleaning
-- Data Analysis
-- Machine Learning
-- Feature Engineering
-- Model Evaluation
+* Deep Learning
+* Data Analysis
+* Computer Vision
+* Model Evaluation
+* Python Programming
